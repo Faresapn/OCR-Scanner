@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "818566275585",
+    "firebase_url": "https://textreco-4fb50.firebaseio.com",
+    "project_id": "textreco-4fb50",
+    "storage_bucket": "textreco-4fb50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818566275585:android:62af77b150a328d4af9600",
+        "android_client_info": {
+          "package_name": "com.faresa.ocrmlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818566275585-hrn4dig0eu92i2434be7e13ta1khfd6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAixuyN5yA6Md3svQzHNrqi8jqs0rwy9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818566275585-hrn4dig0eu92i2434be7e13ta1khfd6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
